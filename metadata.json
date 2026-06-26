@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Donasi Yayasan",
+  "description": "Aplikasi manajemen donasi modern untuk yayasan dengan role-based access, visualisasi data, input donasi, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
